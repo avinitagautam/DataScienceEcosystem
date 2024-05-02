@@ -12,12 +12,12 @@ Some of the commonly used libraries used by Data Scientists include
 
 1. Pandas
 2. Pytorch
-3. Julia
+3. NumPy
 
 |Data Science Tools|
 |---|
 |Pandas|
-|SAS|
+|Jupyter Notebook|
 |Apache Spark|
 
 ### Below are a few examples of evaluating arithmetic expressions in Python
