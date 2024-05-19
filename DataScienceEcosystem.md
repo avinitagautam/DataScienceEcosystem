@@ -1,6 +1,6 @@
 # Data Science Tools and Ecosystem
 
-In this notebook, Data Science Tools and Ecosystem are summarized.
+In this notebook, Data Science Tools and Ecosystems are summarized.
 
 Some of the popular languages that Data Scientists use are:
 
@@ -11,14 +11,18 @@ Some of the popular languages that Data Scientists use are:
 Some of the commonly used libraries used by Data Scientists include
 
 1. Pandas
-2. Pytorch
+2. TensorFlow
 3. NumPy
+4. Keras
+5. Matplotlib
+6. Seaborn
 
 |Data Science Tools|
 |---|
-|Pandas|
+|Tableau|
 |Jupyter Notebook|
 |Apache Spark|
+|SAS|
 
 ### Below are a few examples of evaluating arithmetic expressions in Python
 
